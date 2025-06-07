@@ -1,0 +1,17 @@
+{
+  "name": "zeiterfassung",
+  "version": "1.0.0",
+  "description": "Zeiterfassungssystem mit Login, bereit f\u00fcr Render.com Hosting",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "author": "",
+  "license": "MIT"
+}
